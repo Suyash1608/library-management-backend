@@ -1,6 +1,6 @@
 # Maven build output
 target/
-
+.metadata/
 # Eclipse files
 .classpath
 .project
